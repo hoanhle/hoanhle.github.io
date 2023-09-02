@@ -32,4 +32,4 @@ At [Aalto University](https://www.aalto.fi/en), I'm studying my master in Machin
 
 In my free time, I travel and play tennis. I hope to compete sometimes soon, maybe in 1-2 years.
 
-Thanks for visiting, please reach out with any question at contact@hoanh.ai. I’m always open to interesting conversations and collaboration.
+Thanks for visiting, feel free to reach out to me at hoanh.le@aalto.fi. I’m always open to interesting conversations and collaboration.
