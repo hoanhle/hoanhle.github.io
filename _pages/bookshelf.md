@@ -10,26 +10,28 @@ nav_order: 5
 _Inspired by [Nick Cammerata](http://nickcammarata.com/bookshelf)._
 &nbsp;
 
-⭐Friendly Ambitious Nerds ️
+Friendly Ambitious Nerds ⭐
 
-⭐️Make Something Wonderful 
+Make Something Wonderful ⭐
 
-&nbsp;&nbsp;&nbsp;&nbsp;On the Shortness of Life
+Hackers & Painters ⭐
 
-&nbsp;&nbsp;&nbsp;&nbsp;Anything You Want
+The Almanack of Naval Ravikant: A Guide to Wealth and Happiness ⭐
 
-&nbsp;&nbsp;&nbsp;&nbsp;Normal People
+Tomorrow, and Tomorrow, and Tomorrow ⭐
 
-&nbsp;&nbsp;&nbsp;&nbsp;Thinking, Fast and Slow
+On the Shortness of Life
 
-&nbsp;&nbsp;&nbsp;&nbsp;Zero to One: Notes on Startups, or How to Build the Future
+Anything You Want
 
-&nbsp;&nbsp;&nbsp;&nbsp;No Rules Rules: Netflix and the Culture of Reinvention
+Normal People
 
-⭐️The Almanack of Naval Ravikant: A Guide to Wealth and Happiness 
+Thinking, Fast and Slow
 
-⭐Tomorrow, and Tomorrow, and Tomorrow ️
+Zero to One: Notes on Startups, or How to Build the Future
 
-&nbsp;&nbsp;&nbsp;&nbsp;Shoe Dog: A Memoir by the Creator of Nike
+No Rules Rules: Netflix and the Culture of Reinvention
 
-&nbsp;&nbsp;&nbsp;&nbsp;21 Lessons for the 21st Century
+Shoe Dog: A Memoir by the Creator of Nike
+
+21 Lessons for the 21st Century
