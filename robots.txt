@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://hoanhle.github.io//sitemap.xml
+Sitemap: https://hoanhle.github.io/sitemap.xml
