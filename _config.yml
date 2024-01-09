@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Hoanh Le # the website title (if blank, full name will be used instead)
+title: Hoanh Le
 first_name: Hoanh Le
 middle_name:
 last_name:
@@ -224,6 +224,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-twitter-plugin
+  - jekyll-seo-tag
   - jemoji
 
 # -----------------------------------------------------------------------------
