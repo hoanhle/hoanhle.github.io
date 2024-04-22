@@ -20,6 +20,8 @@ The Almanack of Naval Ravikant: A Guide to Wealth and Happiness ⭐
 
 Tomorrow, and Tomorrow, and Tomorrow ⭐
 
+Master of Doom
+
 On the Shortness of Life
 
 Anything You Want
