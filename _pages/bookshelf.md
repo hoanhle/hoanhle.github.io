@@ -20,6 +20,8 @@ The Almanack of Naval Ravikant: A Guide to Wealth and Happiness ⭐
 
 Tomorrow, and Tomorrow, and Tomorrow ⭐
 
+Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World ⭐
+
 Master of Doom
 
 On the Shortness of Life
