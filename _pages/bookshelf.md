@@ -7,7 +7,7 @@ nav: true
 nav_order: 5
 ---
 
-_Inspired by [Nick Cammerata](http://nickcammarata.com/bookshelf)._
+_Inspired by [Nick Cammarata](http://nickcammarata.com/bookshelf)._
 &nbsp;
 
 Friendly Ambitious Nerds ⭐
@@ -21,6 +21,8 @@ The Almanack of Naval Ravikant: A Guide to Wealth and Happiness ⭐
 Tomorrow, and Tomorrow, and Tomorrow ⭐
 
 Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World ⭐
+
+Cleopatra and Frankenstein ⭐
 
 Master of Doom
 
