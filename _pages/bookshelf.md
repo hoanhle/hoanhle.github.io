@@ -55,3 +55,21 @@ Percy Jackson and the Olympians Series
 The Hard Thing About Hard Things
 
 Die with Zero: Getting All You Can from Your Money and Your Life
+
+Yellowface
+
+The bell jar
+
+Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal
+
+King, Warrior, Magician, Lover
+	
+It Ends with Us
+
+The burnout
+	
+Before the Coffee Gets Cold 
+
+The Last Lecture
+
+Suomen mestari 1
